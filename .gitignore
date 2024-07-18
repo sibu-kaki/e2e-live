@@ -1,5 +1,10 @@
+#Playwrigth初期設定
 node_modules/
 /test-results/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# env
+.env.*
+!.env.example
